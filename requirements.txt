@@ -1,0 +1,9 @@
+pyttsx3
+SpeechRecognition
+randfacts
+pywhatkit
+selenium
+beautifulsoup4
+requests
+Pillow
+pyaudio
