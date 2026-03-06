@@ -47,14 +47,15 @@ requirements.txt → Required Python libraries
 
 ## Installation
 
-1. Clone the repository
+1. Clone the repository<br>
+https://github.com/Ruchita-joshi/VOPA---Voice-Operated-Personal-Assistant
 
 
-2. Navigate to the project folder
+2. Navigate to the project folder<br>
 cd VOPA---Voice-Operated-Personal-Assistant
 
 
-3. Install required dependencies
+3. Install required dependencies<br>
 pip install -r requirements.txt
 
 
